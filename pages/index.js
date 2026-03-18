@@ -1,5 +1,14 @@
 function Home() {
-    return <h1>Hello World!</h1>
+  return <h1>Hello World!</h1>;
 }
+
+function teste() {
+  console.log("teste");
+}
+
+function teste2() {
+  console.log("indention wrong nessa porra");
+}
+teste();
 
 export default Home;
